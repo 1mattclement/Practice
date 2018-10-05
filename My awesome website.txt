@@ -1,0 +1,3 @@
+public actionresult Index{
+REturn view()
+}
